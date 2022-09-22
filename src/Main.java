@@ -35,7 +35,7 @@ public class Main {
             total1 = total1 + accumulation1;
             System.out.println(total1);
         }
-        //Задание8
+        //Задание9
         int accumulation2 = 29000;
         int total2 = 0;
         for (int i=0; i<=12; i++) {
